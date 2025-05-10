@@ -1874,11 +1874,11 @@ input:focus, textarea:focus, select:focus, button:focus {
     transition: all 0.5s;
 }
 
-.owl-carousel .owl-stage-outer{
+/* .owl-carousel .owl-stage-outer{
     box-shadow: 0px 0px 10px #cdcdcdc9;
     padding: 70px 40px 70px 40px;
     border-radius: 20px;
-}
+} */
 
 
 /*---------- Testimonial css end -------*/
@@ -3825,7 +3825,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     display: inline-block;
 }
 .ast_header_bottom {
-    margin-top: 100px;
+    /* margin-top: 100px; */
 }
 .ast_logo {
     padding: 10px 0px;
